@@ -1,3 +1,3 @@
 <?
-    echo "<strong>Hello Word !</strong>"
+    echo "<strong>OLá Mundo !</strong>"
 ?>
